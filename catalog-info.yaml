@@ -3,6 +3,9 @@ kind: Component
 metadata:
   name: "bffs-api"
   description: "This is the BFFS API for the Fiduciary system."
+  tags:
+    - fiduciary
+    - veterans
   annotations:
     github.com/project-slug: dstrivelli/bffs-api
     backstage.io/techdocs-ref: url:https://github.com/dstrivelli/bffs-api
