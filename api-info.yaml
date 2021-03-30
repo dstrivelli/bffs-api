@@ -1,0 +1,11 @@
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: bffs-api-api
+  description: "This is the BFFS API for the Fiduciary system."
+spec:
+  type: openapi
+  lifecycle: production
+  owner: "applications"
+  definition:
+    $text: https://github.com/dstrivelli/bffs-api/blob/master/openapi.yaml

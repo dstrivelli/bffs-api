@@ -1,0 +1,8 @@
+site_name: "bffs-api"
+site_description: "This is the BFFS API for the Fiduciary system."
+
+nav:
+  - Overview: index.md
+
+plugins:
+  - techdocs-core
